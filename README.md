@@ -14,4 +14,4 @@ Currently we are in the stage of gathering as many ideas as possible, so the key
 Or join us to discuss in **#it-refurb** on the Tech Nottingham Slack!
 
 ## Code of Conduct
-Discussion in this repository is subject to the [https://www.technottingham.com/code-of-conduct](Tech Nottingham Code of Conduct). 
+Discussion in this repository is subject to the [Tech Nottingham Code of Conduct](https://www.technottingham.com/code-of-conduct). 
