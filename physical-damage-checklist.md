@@ -8,14 +8,19 @@ We need a simple and standardised way to check machines for damage. This documen
 
 If you have something to add but are having trouble with the phrasing, make a pull request anyway and we can work it out there.
 
-## Checklist
-### Battery
+## Checklists
+### Laptop
+#### Battery
 - [ ] Does the machine stay on when it is disconnected from mains power?
 - [ ] Does the keyboard bulge out from the chassis?
 
-### Screen
+#### Screen
 - [ ] Are there cracks in the screen?
 - [ ] Are there noticeably unusable areas of the screen?
 - [ ] Are there any vertical lines running down the screen?
 - [ ] Are there any dead pixels? (Individual pixels that are stuck as one color or do not turn on)
 - [ ] Are there any pressure marks? (Lighter areas of the screen that appear to be smudges but do not come off when wiped)
+
+### Phone
+
+### Tablet
